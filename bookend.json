@@ -1,0 +1,44 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More to read"
+    },
+    {
+      "type": "landscape",
+      "title": "The all new Lexus for 2021",
+      "url": "https://www.autonationdrive.com/research/reviews/lexus/gs-f/2020/index.htm",
+      "image": "https://pictures.dealer.com/a/autonationdrive/0022/d08d3b3a22b36e05b2fb66dfc026d579x.jpg",
+      "category": "Lexus GS"
+    },
+    {
+      "type": "landscape",
+      "title": "Exciting changes coming for Supra",
+      "url": "https://www.autonationdrive.com/research/reviews/toyota/supra/2021/index.htm",
+      "image": "https://pictures.dealer.com/a/autonationdrive/1125/b438484b320dc2452bd5bd4999fa4e77x.jpg",
+      "category": "Toyota Supra"
+    },
+    {
+      "type": "landscape",
+      "title": "Cars we can't wait to drive",
+      "url": "https://www.autonationdrive.com/research/articles/hot-vehicles-for-2021.htm",
+      "image": "https://pictures.dealer.com/a/autonationdrive/1162/99fa2e0e3b1c2260355feaa59cb6bb81x.jpg",
+      "category": "2021 Models"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Read More",
+          "url": "https://www.autonationdrive.com/"
+        }
+      ]
+    }
+  ]
+}
